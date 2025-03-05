@@ -1,0 +1,38 @@
+[
+    {
+        "ID": 1,
+        "Name": "Mark",
+        "Score": 85
+    },
+    {
+        "ID": 2,
+        "Name": "Jaemin",
+        "Score": 90
+    },
+    {
+        "ID": 3,
+        "Name": "Jeno",
+        "Score": 78
+    },
+    {
+        "ID": 4,
+        "Name": "Haechan",
+        "Score": 100
+    },
+    {
+        "ID": 5,
+        "Name": "Jisung",
+        "Score": 66
+    },
+    {
+        "ID": 6,
+        "Name": "Chenle",
+        "Score": 53
+    },
+    {
+        "ID": 7,
+        "Name": "Renjun",
+        "Score": 48
+    }
+]
+
